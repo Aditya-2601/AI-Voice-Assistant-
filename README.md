@@ -6,15 +6,15 @@ Hello buddies! This is an AI Voice Assistant made using Google Gemini API.
 Run the following commands in your terminal to install them:
 
 ```python
-#pip install google-genai
+pip install google-genai
 ```
 
 ```python
-#pip install SpeechRecognition
+pip install SpeechRecognition
 ```
 
 ```python
-#pip install pyttsx3
+pip install pyttsx3
 ```
 
 2) It requires an API Key of Google Gemini to run the model. Get the api key from https://aistudio.google.com/app/apikey
