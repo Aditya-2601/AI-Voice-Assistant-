@@ -17,6 +17,10 @@ pip install SpeechRecognition
 pip install pyttsx3
 ```
 
+```python
+pip install pyaudio
+```
+
 2) It requires an API Key of Google Gemini to run the model. Get the api key from https://aistudio.google.com/app/apikey
 
 # Review
